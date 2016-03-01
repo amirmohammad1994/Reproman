@@ -1,3 +1,5 @@
+//In the Name of God
+
 #include "mainwindow.h"
 #include <QApplication>
 
